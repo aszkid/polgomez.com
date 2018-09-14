@@ -4,7 +4,7 @@ I'm a rising junior at the *University of Chicago*, pursuing a bachelor's degree
 
 You can see some of the code I've written on my spare time [over here](/); I am interested in cryptography and its applications, computer graphics, security, and anything low-level. As for mathematics, I have spent a summer working on [algebraic number theory](/) and I think [category theory](/) is very cool.
 
-Please take a look at my [resume](/resume) for a career-oriented summary of most of the stuff you'll find on this website.
+For a career-oriented summary of most of the stuff you'll find on this website, please check my [resume](/polgomez_CV.pdf).
 
 I also like books, [words](/words) and languages. My ongoing efforts on this front include trying to learn [latin](/latin) and [russian](/russian), translating some [texts](/translations) and working on a [literature database system](/litdb).
 

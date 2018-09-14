@@ -1,0 +1,13 @@
+!= partial("../_head")
+  body
+    != partial("../_header")
+    if current.source == 'index'
+      !=yield
+    else
+      section.section
+        .container
+          - var post = public.blog._data[current.source]
+          h1.title= post.title
+          h3.subtitle.has-text-grey #{ post.date } — #{ post.author }
+          .content!=yield
+    != partial("../_footer")

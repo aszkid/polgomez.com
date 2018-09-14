@@ -1,0 +1,12 @@
+section.hero.is-info
+  .hero-body
+    .container
+      h1.title Blog
+      h2.subtitle Stuff I've written, be it code or random musings.
+
+section.section
+  .container
+    for post, slug in public.blog._data
+      h2.title
+        a(href="/blog/#{ slug }")= post.title
+      h3.subtitle.has-text-grey On #{ post.date }.

@@ -1,0 +1,3 @@
+This is my first post using the static site generator [Harp](http://harpjs.com). It is pretty comfy: templates are automagically compiled to `.html` and `.css` files. Once your layout is ready, all your attention can be directed to the site's *content*. For example, this post is a Markdown file, which Harp compiles to HTML and includes the result in the blog's layout.
+
+There's not much more to it: you can quickly get a simple site up and running without worrying about set-up and complex CMS systems. Harp also provides a `compile` command, which provides a fully static and ready-to-serve version of your site. Add `nginx` to that, and we have a deal.
