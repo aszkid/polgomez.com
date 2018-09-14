@@ -7,6 +7,8 @@ section.hero.is-info
 section.section
   .container
     for post, slug in public.blog._data
-      h2.title
-        a(href="/blog/#{ slug }")= post.title
-      h3.subtitle.has-text-grey On #{ post.date }.
+      unless post.draft
+        .blog-slug
+          h2.title
+            a(href="/blog/#{ slug }")= post.title
+          h3.subtitle.has-text-grey On #{ post.date }.
