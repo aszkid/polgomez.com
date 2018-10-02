@@ -1,5 +1,8 @@
 {
-  "blockchain-i": {
+  "blockchain-by-example-1": {
+    "title": "Blockchain by example (I)",
+    "date": "September 15th, 2018",
+    "author": "Pol",
     "draft": true
   },
   "hello-world": {
