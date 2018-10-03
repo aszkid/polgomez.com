@@ -2,7 +2,7 @@
 
 I'm a rising junior at the *University of Chicago*, pursuing a bachelor's degree in *Mathematics* and *Computer Science*.
 
-You can see some of the code I've written on my spare time [over here](/about#projects); I am interested in cryptography and its applications, computer graphics, security, and anything low-level; I am also passionate about decentralized web initiatives. As for mathematics, I have spent a summer working on [algebraic number theory](/blog/algebraic-number-theory) and I think [category theory](/blog/category-theory) is very cool.
+You can see some of the code I've written on my spare time [over here](/about#projects); I am interested in cryptography and its applications, computer graphics, security, and anything low-level; I am also passionate about decentralized web initiatives. As for mathematics, I have spent a summer working on [algebraic number theory](https://github.com/aszkid/number_theory) and I think [category theory](https://github.com/aszkid/polynomial-functor-notes) is very cool.
 
 For a career-oriented summary of most of the stuff you'll find on this website, please check my [resume](/polgomez_CV.pdf).
 
