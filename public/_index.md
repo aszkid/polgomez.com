@@ -8,7 +8,7 @@ You can see some of the code I've written on my spare time [over here](/about#pr
 
 I currently serve as vice president of the [UChicago Applied Math Club](https://ucamc.github.io), where we invite professors to give talks about their research related to or involving mathematics.
 
-For a career-oriented summary of most of the stuff you'll find on this website, please check my [resume](/polgomez_CV.pdf).
+For a career-oriented summary of most of the stuff you'll find on this website, please check my [resume](/polgomez_CV.pdf). I also have a [LinkedIn profile](https://www.linkedin.com/in/gomezp/), but I like this website better.
 
 I also like books, [words](/about#words) and languages, including but not limited to russian and catalan, my mother tongue.
 
