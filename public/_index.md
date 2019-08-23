@@ -2,9 +2,9 @@
 
 I'm a rising senior at the University of Chicago, majoring in Mathematics and Computer Science.
 
-You can see some of the code I've written [over here](/about#projects); I am interested in machine learning, cryptography and its applications, and security broadly speaking; I am also passionate about the decentralized web in all its forms. As for mathematics, I have spent a summer working on [algebraic number theory](https://github.com/aszkid/number_theory) at Peter May's UChicago REU, and I think [category theory](https://github.com/aszkid/polynomial-functor-notes) is very cool.
+This summer I am at Ben Y. Zhao & Heather Zheng's [SANDLab](http://sandlab.cs.uchicago.edu/), where I've been doing research since May. I am working on a project about security aspects of machine learning models used for anomaly detection. Among other things, I have played with WiFi propagation models, LTE signal spectra, and learnt a good deal of PyTorch and Tensorflow.
 
-This summer I am at Ben Y. Zhao & Heather Zheng's [SANDLab](http://sandlab.cs.uchicago.edu/), where I've been an undergrad researcher since May. I am working on a project about security aspects of machine learning models used for anomaly detection. Among other things, I have played with WiFi propagation models, LTE signal spectra, and a good deal of PyTorch and Tensorflow.
+You can see some of the code I've written [over here](/about#projects); I am interested in machine learning, cryptography and its applications, and security broadly speaking; I am also passionate about the decentralized web in all its forms. As for mathematics, I have spent a summer working on [algebraic number theory](https://github.com/aszkid/number_theory) at Peter May's UChicago REU, and I think [category theory](https://github.com/aszkid/polynomial-functor-notes) is very cool.
 
 ---
 
